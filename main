@@ -548,7 +548,7 @@ width: 120px;
  
 height: 150px;
  
-border: 5px solid ##8f091d;
+border: 1px solid #000;
  
 cursor: pointer;
  
@@ -560,7 +560,7 @@ width: 120px;
  
 height: 150px;
  
-border: 5px solid ##8f091d;
+border: 1px solid #000;
  
 cursor: pointer;
  
@@ -572,7 +572,7 @@ width: 120px;
  
 height: 70px;
  
-border: 5px solid ##8f091d;
+border: 1px solid #000;
  
 cursor: pointer;
  
@@ -599,12 +599,6 @@ width: 600px;
 margin: 0 auto;
  
 font-family: 'Times New Roman', erif;
-
-background-image: url("https://64.media.tumblr.com/b42744c830e74ef450cb61a39bbb2ec7/afcef1df563d1bc6-68/s1280x1920/a97f90141549c6b80059ba0c4680ec912fac5f2e.pnj");
-  background-repeat: no-repeat, repeat;
-  background-size: cover;
-  background-color: #000000
- ;
  
 }
  
